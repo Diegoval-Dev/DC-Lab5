@@ -1,0 +1,12 @@
+# --- Lab 5: Text Mining (Disaster Tweets) ---
+# Reproducible minimal stack
+ipykernel==6.29.5
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+scikit-learn==1.4.2
+nltk==3.8.1
+emoji==2.12.1
+wordcloud==1.9.3
+# Optional but handy
+tqdm==4.66.4
